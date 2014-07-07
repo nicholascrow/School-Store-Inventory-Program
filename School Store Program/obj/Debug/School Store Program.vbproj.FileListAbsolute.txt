@@ -1,0 +1,21 @@
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\bin\Debug\School Store Program.exe.config
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\bin\Debug\School Store Program.exe
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\bin\Debug\School Store Program.pdb
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\bin\Debug\School Store Program.xml
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\obj\Debug\School_Store_Program.Form1.resources
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\obj\Debug\School_Store_Program.Resources.resources
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\obj\Debug\School Store Program.vbproj.GenerateResource.Cache
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\obj\Debug\School Store Program.exe
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\obj\Debug\School Store Program.xml
+C:\Users\NICK\AppData\Local\Temporary Projects\School Store Program\obj\Debug\School Store Program.pdb
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\bin\Debug\School Store Program.exe.config
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\obj\Debug\School Store Program.exe
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\obj\Debug\School Store Program.xml
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\obj\Debug\School Store Program.pdb
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\bin\Debug\School Store Program.exe
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\bin\Debug\School Store Program.pdb
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\bin\Debug\School Store Program.xml
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\obj\Debug\School_Store_Program.Form1.resources
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\obj\Debug\School_Store_Program.Resources.resources
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\obj\Debug\School Store Program.vbproj.GenerateResource.Cache
+C:\Users\NICK\documents\visual studio 2012\Projects\School Store Program\School Store Program\bin\Debug\Store Database.mdb
